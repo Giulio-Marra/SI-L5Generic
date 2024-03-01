@@ -85,13 +85,13 @@ header img{
     font-size: 2.2em;
 }
 #midContainerT div{
-    display: inline-block;
-    width: 33%;
 }
 .board{
+    display: inline-block;
     text-align: center;
     box-shadow: -1px 3px 10px -3px #000000;
-    width: 100%;
+    width: 30%;
+    margin: 1%;
 
 }
 .board img{

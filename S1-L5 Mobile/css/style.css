@@ -1,0 +1,98 @@
+/* Body */
+body{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+.distanceText{
+    font-size: 1.2em;
+    line-height: 1.6em;
+    padding-top:  6%;
+    padding-bottom: 6%;
+}
+h3{
+    font-size: 1.4em;
+    font-weight: bold;
+    padding-top: 6%;
+    color: rgb(39 163 203);
+}
+h2{
+    font-size: 2.2em;
+    font-weight: bold;
+}
+a{
+    display: block;
+    color: white;
+}
+hr{
+    margin: 10%;
+}
+/* Header */
+header div{
+    background-color: black;
+}
+header img{
+    padding: 1.8em;
+    width: 35%;
+}
+/* Main Content */
+#bannerContainer{
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10%;
+}
+#bannerContainer h1{
+    color: rgb(39 163 203);
+    font-size: 2.6em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}
+#bannerContainer a{
+    text-decoration: none;
+}
+#bannerContainer button{
+    background-color: #f64a2a;
+    color: white;
+    padding: 1em 2em;
+    border-radius: 8%;
+    border: none;
+}
+#midContainer{
+    padding: 10%;
+}
+#midContainer img{
+    border-radius: 50%;
+    width: 90%;
+}
+#midContainerSecond{
+    background-color: #e42d11;
+    color: white;
+    padding: 10%;
+}
+#midContainerSecond p{
+    font-family: "Dosis", sans-serif;
+    font-size: 1em;
+}
+#midContainerSecond h2{
+    font-size: 2.2em;
+
+}
+#midContainerThird{
+    background-color: white;
+    padding: 8%;
+}
+#midContainerThird div{
+    margin-top: 8%;
+    box-shadow: -1px 3px 10px -3px #000000;
+}
+#midContainerThird img{
+    width: 100%;
+}
+/* Footer */
+footer{
+    background-color: #27a1c8;
+    color: white;
+    padding: 8%;
+}
+
+
